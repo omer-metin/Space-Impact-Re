@@ -1,0 +1,7 @@
+lvl 1
+10 x fireball x1
+2  x fireball x4
+8  x plane x1
+12 x rocket x1
+4  x enemyship x2
+boss 20x
